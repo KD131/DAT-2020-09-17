@@ -1,11 +1,8 @@
-String name="Kasper";
-int age=26;
-
 void setup()
 {
   printNothing();
   printString("text");
-  printID(name,age);
+  printID("Kasper",26);
 }
 
 void printNothing()
